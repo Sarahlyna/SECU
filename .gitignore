@@ -1,0 +1,5 @@
+# .gitignore
+nginx/ssl/
+*.tar
+*.log
+*.env
